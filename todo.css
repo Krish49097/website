@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+    font-family: serif;
+}
+
+.todo-container{
+    margin: auto;
+    background-color: white;
+    max-width: 400px;   
+}
+
+h1
+{
+    text-align: center;    
+}
+
+ul{
+    padding: 0%;
+}
+input{
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+}
+li{
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.add-button{
+    background-color: darkred;
+    color: white;
+    border-radius:4px;
+    padding: 5px 10px;
+}
+.add-button{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
